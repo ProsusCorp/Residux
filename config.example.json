@@ -1,0 +1,24 @@
+{
+  "robot": {
+    "ip": "192.168.0.100",
+    "websocket_port": 7788,
+    "rpc_port": 9030,
+    "video_port": 8080
+  },
+  "game": {
+    "window_width": 1280,
+    "window_height": 720,
+    "fps": 60,
+    "language": "es"
+  },
+  "audio": {
+    "music_volume": 0.5,
+    "sfx_volume": 0.7,
+    "voice_volume": 0.8
+  },
+  "narrative": {
+    "text_speed": "normal",
+    "auto_advance": false,
+    "show_subtitles": true
+  }
+}

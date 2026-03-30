@@ -1,0 +1,17 @@
+# Dependencias para Residux_01
+# Motor de juego y gráficos
+pygame==2.5.0
+ursina==5.3.0
+
+# Procesamiento de imágenes y video
+opencv-python==4.8.1.78
+numpy==1.24.3
+pillow==10.0.0
+
+# Comunicación con robot
+websockets==12.0
+requests==2.31.0
+
+# Utilidades
+python-jsonrpc==1.0.0
+

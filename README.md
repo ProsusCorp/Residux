@@ -23,7 +23,7 @@ Residux_01 es un videojuego educativo en Python (Ursina/Pygame) orientado a reci
 
 ```bash
 python -m venv .venv
-source .venv/Scripts/activate
+.venv\Scripts\activate
 ```
 
 3) Instala dependencias:
